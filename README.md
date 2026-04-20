@@ -85,10 +85,8 @@ Status      : [▓▓▓▓▓▓▓▓░░] Always learning, always hacking (
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ze-rith&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ze-rith&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-rith&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&langs_count=8"/>
+<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ze-rith&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-rith&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&langs_count=8"/>
 
 <br/>
 
