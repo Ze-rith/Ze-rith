@@ -113,8 +113,6 @@ Status      : [▓▓▓▓▓▓▓▓░░] Always learning, always hacking (
 
 ---
 
-<div align="center">
-
 ```bash
 ┌──(zerith㉿kali)-[~]
 └─$ exit
@@ -124,5 +122,3 @@ Status      : [▓▓▓▓▓▓▓▓░░] Always learning, always hacking (
 [*] Connection closed by ze-rith
 [*] Session terminated... Stay curious. Stay ethical. 🟢
 ```
-
-</div>
