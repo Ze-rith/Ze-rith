@@ -13,6 +13,12 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40ze-rith%3A~%23+whoami;%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88+%EC%A0%84%EA%B3%B5+%7C+Information+Security+Major;Pentester+%7C+Red+Team+%7C+CTF+Player;%22Think+like+an+attacker%2C+defend+like+a+pro.%22)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ze-rith&label=PROFILE%20VIEWS&style=for-the-badge&color=00FF41&labelColor=000000)
+![Followers](https://img.shields.io/github/followers/Ze-rith?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/Ze-rith?label=STARS&style=for-the-badge&color=00FF41&labelColor=000000)
+
 </div>
 
 ---
@@ -87,10 +93,6 @@ Status      : [▓▓▓▓▓▓▓▓░░] Always learning, always hacking (
 <br/>
 
 [![Ze-rith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ze-rith&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=%3E%20Contribution%20Activity%20Log)](https://github.com/Ze-rith)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ze-rith&style=for-the-badge&color=00FF41&label=VISITORS)
 
 </div>
 
