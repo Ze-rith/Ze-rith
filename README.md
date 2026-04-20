@@ -76,30 +76,6 @@ Status      : [▓▓▓▓▓▓▓▓░░] Always learning, always hacking (
 
 ---
 
-## `> ./stats.sh`
-
-```bash
-┌──(zerith㉿kali)-[~]
-└─$ ./show_github_stats --user Ze-rith
-```
-
-<div align="center">
-
-<img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ze-rith&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-rith&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ze-rith&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&ring_color=00FF41&custom_title=Stats&hide_rank=true" alt="Ze-rith Stats"/>
-
-<br/>
-
-[![Ze-rith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ze-rith&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=%3E%20Contribution%20Activity%20Log)](https://github.com/Ze-rith)
-
-</div>
-
----
-
 ## `> ./contact.sh`
 
 ```bash
