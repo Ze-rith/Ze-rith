@@ -86,7 +86,7 @@ Status      : [▓▓▓▓▓▓▓▓░░] Always learning, always hacking (
 
 <br/>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Ze-rith&theme=matrix&no-frame=true&row=1&column=6)
+[![Ze-rith's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ze-rith&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true&custom_title=%3E%20Contribution%20Activity%20Log)](https://github.com/Ze-rith)
 
 <br/>
 
