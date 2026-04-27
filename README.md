@@ -46,12 +46,12 @@
 ### ◢ 戦闘記録 ／ COMBAT_LOG ◣
 
 <!-- BLOG_RSS_START -->
-- ⚡ ｜ `[Web]` ｜ HackTheBox - Pilgrimage Writeup
-- ⚡ ｜ `[CTF]` ｜ Codegate 2026 - Web Quals Writeup
-- ⚡ ｜ `[Web]` ｜ PicoCTF 2026 - Cookie Monster Writeup
-- ⚡ ｜ `[Web]` ｜ DreamHack War Game - SimpleSQLi Writeup
-- ⚡ ｜ `[Pentest]` ｜ Authentication Bypass 정리노트
-- ⚡ ｜ `[Recon]` ｜ OSINT 자동화 스크립트 작성기
+- ⚡ ｜ `[나르샤]` ｜ 23D - 블록체인 기반 티켓 거래 서비스
+- ⚡ ｜ `[CTF]` ｜ 없음
+- ⚡ ｜ `[Web]` ｜ 없음
+- ⚡ ｜ `[Web]` ｜ DreamHack War Game - 푸는중
+- ⚡ ｜ `[Pentest]` ｜ zerith 보안 노트
+- ⚡ ｜ `[Recon]` ｜ 와이어 샤크 구현
 <!-- BLOG_RSS_END -->
 
 <br/>
