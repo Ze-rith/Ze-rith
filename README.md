@@ -4,7 +4,7 @@
 <!-- ============================== TOP SECTION ============================== -->
 <div>
 
-<img width="337" src="./img/top_profile.png" align="right" />
+<img width="450" src="./img/top_profile.png" align="right" />
 
 ### ◢ 識別 ／ IDENTIFY ◣
 
@@ -41,19 +41,17 @@
 
 <!-- ============================== MID SECTION ============================== -->
 
-<img width="270" src="./img/mid_profile.png" align="right" />
+<img width="400" src="./img/mid_profile.png" align="right" />
 
 ### ◢ 戦闘記録 ／ COMBAT_LOG ◣
 
 <!-- BLOG_RSS_START -->
 - ⚡ ｜ `[Web]` ｜ HackTheBox - Pilgrimage Writeup
-- ⚡ ｜ `[Web]` ｜ PortSwigger Lab - SSRF Bypass Filter
 - ⚡ ｜ `[CTF]` ｜ Codegate 2026 - Web Quals Writeup
 - ⚡ ｜ `[Web]` ｜ PicoCTF 2026 - Cookie Monster Writeup
 - ⚡ ｜ `[Web]` ｜ DreamHack War Game - SimpleSQLi Writeup
 - ⚡ ｜ `[Pentest]` ｜ Authentication Bypass 정리노트
 - ⚡ ｜ `[Recon]` ｜ OSINT 자동화 스크립트 작성기
-- ⚡ ｜ `[Endfield]` ｜ 진천우 잠재작 후기 + 운용법
 <!-- BLOG_RSS_END -->
 
 <br/>
@@ -73,11 +71,6 @@
 
 <!-- ============================== QUOTE ============================== -->
 
-<sub>「我が剣は、終わりを切り拓く為にある」 — 진천우 主君&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact ／ 連絡: zerith@your.domain</sub>
-<br/>
-<sub>＊ 내 검은, 종말을 가르기 위해 존재한다 ＊</sub>
-
-<br/><br/>
 
 <!-- ============================== LINKS ============================== -->
 
