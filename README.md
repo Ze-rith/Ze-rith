@@ -64,7 +64,7 @@
 </p>
 
 <p>
-<img src="https://streak-stats.demolab.com?user=Zerith&hide_border=true&background=1A1A1A&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=E0E0E0&dates=999999&currStreakNum=F5C518&sideNums=F5C518" width="80%" />
+<img src="https://streak-stats.demolab.com?user=Zerith&hide_border=true&background=1A1A1A&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=E0E0E0&dates=999999&currStreakNum=F5C518&sideNums=F5C518" width="100%" />
 </p>
 
 <br clear="right"/>
