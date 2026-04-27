@@ -16,9 +16,7 @@
 
 - 所属 ／ **AFFILIATION**: 보안 전공 ／ Information Security Major
 
-- 信仰 ／ **LOYALTY**: [**Arknights : Endfield**](https://endfield.gryphline.com/) ◤ 진천우 主君 ◢
-
-- 趣味 ／ **OFF DUTY**: 패킷 까면서 가챠 돌리기, 0day 사냥, 진천우 잠재작
+- 信仰 ／ **LOYALTY**: [**Arknights : Endfield**](https://endfield.gryphline.com/)
 
 <br clear="right"/>
 
