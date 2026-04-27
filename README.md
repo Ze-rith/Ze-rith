@@ -1,104 +1,110 @@
-<div align="center">
+<!-- ============================== HEADER ============================== -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F5C518&height=180&section=header&text=ZERITH%20%2F%2F%20%E6%9C%AB%E7%AB%AF%E8%B5%B7%E5%8B%95&fontSize=46&fontColor=1A1A1A&fontAlignY=40&desc=Web%20Penetration%20Tester%20%2F%20%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&descSize=14&descAlignY=68" width="100%"/>
 
-```
-███████╗███████╗      ██████╗ ██╗████████╗██╗  ██╗
-╚══███╔╝██╔════╝      ██╔══██╗██║╚══██╔══╝██║  ██║
-  ███╔╝ █████╗        ██████╔╝██║   ██║   ███████║
- ███╔╝  ██╔══╝        ██╔══██╗██║   ██║   ██╔══██║
-███████╗███████╗      ██║  ██║██║   ██║   ██║  ██║
-╚══════╝╚══════╝      ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+<!-- ============================== TOP SECTION ============================== -->
+<div>
 
-### `> Security Researcher · Red Team Enthusiast`
+<img width="337" src="./img/top_profile.png" align="right" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=root%40ze-rith%3A~%23+whoami;%EC%A0%95%EB%B3%B4%EB%B3%B4%EC%95%88+%EC%A0%84%EA%B3%B5+%7C+Information+Security+Major;Pentester+%7C+Red+Team+%7C+CTF+Player;%22Think+like+an+attacker%2C+defend+like+a+pro.%22)
+### ◢ 識別 ／ IDENTIFY ◣
+
+- 識別 ／ **CODENAME**: `Zerith` ◤ 終末より来た者 ◢
+
+- 拠点 ／ **HOMEBASE**: 大韓民国 ／ Republic of Korea
+
+- 任務 ／ **MISSION**: **웹 모의해킹 (Web Penetration Testing)** ＆ **CTF Player**
+
+- 所属 ／ **AFFILIATION**: 보안 전공 ／ Information Security Major
+
+- 信仰 ／ **LOYALTY**: [**Arknights : Endfield**](https://endfield.gryphline.com/) ◤ 진천우 主君 ◢
+
+- 趣味 ／ **OFF DUTY**: 패킷 까면서 가챠 돌리기, 0day 사냥, 진천우 잠재작
+
+<br clear="right"/>
+
+<!-- ============================== STACK / WEAPONS ============================== -->
+
+### ◢ 装備 ／ ARSENAL ◣
+
+<p>
+<img src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kalilinux&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/Burp_Suite-1A1A1A?style=flat-square&logo=burpsuite&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/Bash-1A1A1A?style=flat-square&logo=gnubash&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/PHP-1A1A1A?style=flat-square&logo=php&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=flat-square&logo=mysql&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/Wireshark-1A1A1A?style=flat-square&logo=wireshark&logoColor=F5C518"/>
+</p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ze-rith&label=PROFILE%20VIEWS&style=for-the-badge&color=00FF41&labelColor=000000)
-![Followers](https://img.shields.io/github/followers/Ze-rith?label=FOLLOWERS&style=for-the-badge&color=00FF41&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/Ze-rith?label=STARS&style=for-the-badge&color=00FF41&labelColor=000000)
+<!-- ============================== MID SECTION ============================== -->
+
+<img width="270" src="./img/mid_profile.png" align="right" />
+
+### ◢ 戦闘記録 ／ COMBAT_LOG ◣
+
+<!-- BLOG_RSS_START -->
+- ⚡ ｜ `[Web]` ｜ HackTheBox - Pilgrimage Writeup
+- ⚡ ｜ `[Web]` ｜ PortSwigger Lab - SSRF Bypass Filter
+- ⚡ ｜ `[CTF]` ｜ Codegate 2026 - Web Quals Writeup
+- ⚡ ｜ `[Web]` ｜ PicoCTF 2026 - Cookie Monster Writeup
+- ⚡ ｜ `[Web]` ｜ DreamHack War Game - SimpleSQLi Writeup
+- ⚡ ｜ `[Pentest]` ｜ Authentication Bypass 정리노트
+- ⚡ ｜ `[Recon]` ｜ OSINT 자동화 스크립트 작성기
+- ⚡ ｜ `[Endfield]` ｜ 진천우 잠재작 후기 + 운용법
+<!-- BLOG_RSS_END -->
+
+<br/>
+
+### ◢ 統計 ／ STATS ◣
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Zerith&show_icons=true&hide_border=true&title_color=F5C518&icon_color=F5C518&text_color=E0E0E0&bg_color=1A1A1A" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerith&layout=compact&hide_border=true&title_color=F5C518&text_color=E0E0E0&bg_color=1A1A1A" width="49%" />
+</p>
+
+<p>
+<img src="https://streak-stats.demolab.com?user=Zerith&hide_border=true&background=1A1A1A&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=E0E0E0&dates=999999&currStreakNum=F5C518&sideNums=F5C518" width="80%" />
+</p>
+
+<br clear="right"/>
+
+<!-- ============================== QUOTE ============================== -->
+
+<sub>「我が剣は、終わりを切り拓く為にある」 — 진천우 主君&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact ／ 連絡: zerith@your.domain</sub>
+<br/>
+<sub>＊ 내 검은, 종말을 가르기 위해 존재한다 ＊</sub>
+
+<br/><br/>
+
+<!-- ============================== LINKS ============================== -->
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/%23-1A1A1A?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_BLOG-1A1A1A?style=for-the-badge&color=1A1A1A"/></a>
+<a href="https://github.com/Zerith"><img src="https://img.shields.io/badge/%E2%97%86_GITHUB-1A1A1A?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_TWITTER-1A1A1A?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_DISCORD-1A1A1A?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_TELEGRAM-1A1A1A?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_LINKEDIN-1A1A1A?style=for-the-badge"/></a>
+<a href="mailto:zerith@your.domain"><img src="https://img.shields.io/badge/%E2%97%86_EMAIL-1A1A1A?style=for-the-badge"/></a>
+<a href="#"><img src="https://img.shields.io/badge/%23-1A1A1A?style=for-the-badge"/></a>
+</p>
+
+<!-- ============================== BOTTOM BANNER ============================== -->
+
+<img src="./img/bottom_banner.png" width="100%" align="center" />
+
+<p align="center">
+<sub>◤ <code>SYSTEM STATUS: ONLINE</code> ／ <code>システム稼働中</code> ◢ ／ <code>End of transmission ◢◤◢◤</code></sub>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Zerith&style=flat-square&color=F5C518&label=ACCESS_LOG" />
+</p>
 
 </div>
-
----
-
-## `> ./whoami.sh`
-
-```bash
-┌──(zerith㉿kali)-[~]
-└─$ cat about_me.txt
-```
-
-```yaml
-Name        : Ze-rith
-Major       : 정보보안 (Information Security)
-Role        : Security Student · Offensive Security Learner
-Focus       : 모의해킹 · 레드팀 · 시스템/네트워크 보안 · 리버싱 · 포렌식 · CTF
-Motto       : "The quieter you become, the more you are able to hear."
-Status      : [▓▓▓▓▓▓▓▓░░] Always learning, always hacking (legally 😎)
-```
-
-```bash
-┌──(zerith㉿kali)-[~]
-└─$ echo "공격을 이해해야 방어할 수 있다."
-```
-
----
-
-## `> ./skills.sh`
-
-```bash
-┌──(zerith㉿kali)-[~]
-└─$ ls -la /opt/arsenal/
-```
-
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41)
-
-### 🛡️ Offensive Security / Red Team
-![Kali](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF41)
-
-### 🌐 Network & System
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=00FF41)
-
-### 🧩 Learning Platforms
-![HackTheBox](https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)
-![Dreamhack](https://img.shields.io/badge/Dreamhack-000000?style=for-the-badge&logoColor=00FF41)
-
----
-
-## `> ./contact.sh`
-
-```bash
-┌──(zerith㉿kali)-[~]
-└─$ cat contact.txt
-```
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:YOUR_EMAIL_HERE)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=rss&logoColor=00FF41)](YOUR_BLOG_URL_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Ze-rith)
-
-</div>
-
----
-
-```bash
-┌──(zerith㉿kali)-[~]
-└─$ exit
-```
-
-```
-[*] Connection closed by ze-rith
-[*] Session terminated... Stay curious. Stay ethical. 🟢
-```
