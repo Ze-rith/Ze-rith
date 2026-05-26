@@ -1,101 +1,129 @@
-<!-- ============================== HEADER ============================== -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F5C518&height=180&section=header&text=ZERITH%20%2F%2F%20%E6%9C%AB%E7%AB%AF%E8%B5%B7%E5%8B%95&fontSize=46&fontColor=1A1A1A&fontAlignY=40&desc=Web%20Penetration%20Tester%20%2F%20%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3&descSize=14&descAlignY=68" width="100%"/>
+<div align="center">
 
-<!-- ============================== TOP SECTION ============================== -->
-<div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1c,50:1a7e8c,100:4dd0e1&height=180&section=header&text=Ze-rith&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Future%20Cyber%20Crime%20Investigator&descAlignY=62&descSize=14&descColor=e7ecf5" width="100%" alt="header"/>
 
-<img width="450" src="./img/top_profile.png" align="right" />
+<br>
 
-### ◢ 識別 ／ IDENTIFY ◣
+<a href="https://ze-rith.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3000&pause=800&color=4DD0E1&center=true&vCenter=true&width=600&lines=%EA%B9%80%EC%8A%B9%EC%9A%B0+%C2%B7+%EB%8C%80%EA%B5%AC%EC%86%8C%EB%A7%88%EA%B3%A0+%EA%B3%A02;Cybersecurity+%2F+Digital+Forensics;Building+toward+2034..." alt="typing"/>
+</a>
 
-- 識別 ／ **CODENAME**: `Zerith` ◤ 終末より来た者 ◢
+</div>
 
-- 拠点 ／ **HOMEBASE**: 大韓民国 ／ Republic of Korea
+<br>
 
-- 任務 ／ **MISSION**: **웹 모의해킹 (Web Penetration Testing)** ＆ **CTF Player**
+## `> whoami`
 
-- 所属 ／ **AFFILIATION**: 보안 전공 ／ Information Security Major
+```yaml
+name:       김승우 (Ze-rith)
+school:     대구소프트웨어마이스터고 (DGSM)
+location:   Daegu, Korea
+status:     고2 · 사이버보안 트랙
+mission:    8년 뒤, 사이버범죄수사대 수사관
+```
 
-- 信仰 ／ **LOYALTY**: [**Arknights : Endfield**](https://endfield.gryphline.com/)
+<br>
 
-<br clear="right"/>
+## `> roadmap --status`
 
-<!-- ============================== STACK / WEAPONS ============================== -->
+<div align="center">
 
-### ◢ 装備 ／ ARSENAL ◣
+| Phase | Period | Age | Status |
+|:---:|:---:|:---:|:---:|
+| `1` 고2 · 자격증 빌딩 | `2026.06 → 2027.02` | 17 | 🟡 진행 중 |
+| `2` 고3 · 입영 준비 | `2027.03 → 2028.02` | 18 | ⚪ 대기 |
+| `3` 군 복무 · 사이버 특기 | `2028.03 → 2029.末` | 19~20 | ⚪ 대기 |
+| `4` 순경 공채 | `2030 → 2031` | 21~22 | ⚪ 대기 |
+| `5` 일선 근무 | `2031 → 2034` | 22~25 | ⚪ 대기 |
+| `6` **사이버범죄수사대 전입** | `2034 ~ 2035` | 25~26 | 🎯 **목표** |
 
-<p>
-<img src="https://img.shields.io/badge/Kali_Linux-1A1A1A?style=flat-square&logo=kalilinux&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/Burp_Suite-1A1A1A?style=flat-square&logo=burpsuite&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/Bash-1A1A1A?style=flat-square&logo=gnubash&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=flat-square&logo=javascript&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/PHP-1A1A1A?style=flat-square&logo=php&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/MySQL-1A1A1A?style=flat-square&logo=mysql&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/Git-1A1A1A?style=flat-square&logo=git&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/Wireshark-1A1A1A?style=flat-square&logo=wireshark&logoColor=F5C518"/>
-</p>
+**📊 [Live Roadmap →](https://ze-rith.github.io/)** · 416주 · 1,053개 투두
 
-<br/>
+</div>
 
-<!-- ============================== MID SECTION ============================== -->
+<br>
 
-<img width="400" src="./img/mid_profile.png" align="right" />
+## `> stack --list`
 
-### ◢ 戦闘記録 ／ COMBAT_LOG ◣
+<div align="center">
 
-<!-- BLOG_RSS_START -->
-- ⚡ ｜ `[나르샤]` ｜ 23D - 블록체인 기반 티켓 거래 서비스
-- ⚡ ｜ `[CTF]` ｜ 없음
-- ⚡ ｜ `[Web]` ｜ 없음
-- ⚡ ｜ `[Web]` ｜ DreamHack War Game - 푸는중
-- ⚡ ｜ `[Pentest]` ｜ zerith 보안 노트
-- ⚡ ｜ `[Recon]` ｜ 와이어 샤크 구현
-<!-- BLOG_RSS_END -->
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0a0f1c?style=for-the-badge&logo=python&logoColor=4DD0E1)
+![C](https://img.shields.io/badge/C-0a0f1c?style=for-the-badge&logo=c&logoColor=4DD0E1)
+![Java](https://img.shields.io/badge/Java-0a0f1c?style=for-the-badge&logo=openjdk&logoColor=4DD0E1)
+![Bash](https://img.shields.io/badge/Bash-0a0f1c?style=for-the-badge&logo=gnubash&logoColor=4DD0E1)
 
-<br/>
+**Security & Systems**  
+![Linux](https://img.shields.io/badge/Linux-0a0f1c?style=for-the-badge&logo=linux&logoColor=F6C453)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0f1c?style=for-the-badge&logo=wireshark&logoColor=F6C453)
+![Kali](https://img.shields.io/badge/Kali_Linux-0a0f1c?style=for-the-badge&logo=kalilinux&logoColor=F6C453)
+![Burp](https://img.shields.io/badge/Burp_Suite-0a0f1c?style=for-the-badge&logo=burpsuite&logoColor=F6C453)
 
-### ◢ 統計 ／ STATS ◣
+**Tools**  
+![VSCode](https://img.shields.io/badge/VS_Code-0a0f1c?style=for-the-badge&logo=visualstudiocode&logoColor=82F0FF)
+![Git](https://img.shields.io/badge/Git-0a0f1c?style=for-the-badge&logo=git&logoColor=82F0FF)
+![VMware](https://img.shields.io/badge/VMware-0a0f1c?style=for-the-badge&logo=vmware&logoColor=82F0FF)
+![Vim](https://img.shields.io/badge/Vim-0a0f1c?style=for-the-badge&logo=vim&logoColor=82F0FF)
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Zerith&show_icons=true&hide_border=true&title_color=F5C518&icon_color=F5C518&text_color=E0E0E0&bg_color=1A1A1A" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerith&layout=compact&hide_border=true&title_color=F5C518&text_color=E0E0E0&bg_color=1A1A1A" width="49%" />
-</p>
+</div>
 
-<p>
-<img src="https://streak-stats.demolab.com?user=Zerith&hide_border=true&background=1A1A1A&stroke=F5C518&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=E0E0E0&dates=999999&currStreakNum=F5C518&sideNums=F5C518" width="100%" />
-</p>
+<br>
 
-<br clear="right"/>
+## `> certs --acquired`
 
-<!-- ============================== QUOTE ============================== -->
+<div align="center">
 
+| Cert | Status | Date |
+|:---|:---:|:---:|
+| 프로그래밍 기능사 (필기) | ✅ Pass | `2026.05` |
+| 프로그래밍 기능사 (실기) | 🟡 진행 | `2026.10` 목표 |
+| 리눅스마스터 2급 | 🟡 진행 | `2026.12` 목표 |
+| 한국사능력검정시험 2급 | 🟡 진행 | `2026.10` 목표 |
 
-<!-- ============================== LINKS ============================== -->
+</div>
 
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/%23-1A1A1A?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_BLOG-1A1A1A?style=for-the-badge&color=1A1A1A"/></a>
-<a href="https://github.com/Zerith"><img src="https://img.shields.io/badge/%E2%97%86_GITHUB-1A1A1A?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_TWITTER-1A1A1A?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_DISCORD-1A1A1A?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_TELEGRAM-1A1A1A?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%E2%97%86_LINKEDIN-1A1A1A?style=for-the-badge"/></a>
-<a href="mailto:zerith@your.domain"><img src="https://img.shields.io/badge/%E2%97%86_EMAIL-1A1A1A?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/%23-1A1A1A?style=for-the-badge"/></a>
-</p>
+<br>
 
-<!-- ============================== BOTTOM BANNER ============================== -->
+## `> training --daily`
 
-<img src="./img/bottom_banner.png" width="100%" align="center" />
+```bash
+🏃  5km running        — current: building base
+💪  Push-ups           — target: 50 reps
+🥊  격투기              — coming soon
+🎯  Dreamhack          — wargames in progress
+```
 
-<p align="center">
-<sub>◤ <code>SYSTEM STATUS: ONLINE</code> ／ <code>システム稼働中</code> ◢ ／ <code>End of transmission ◢◤◢◤</code></sub>
-</p>
+<br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Zerith&style=flat-square&color=F5C518&label=ACCESS_LOG" />
-</p>
+## `> stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ze-rith&show_icons=true&hide_border=true&bg_color=0a0f1c&title_color=4dd0e1&text_color=e7ecf5&icon_color=f6c453&include_all_commits=true" alt="stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-rith&layout=compact&hide_border=true&bg_color=0a0f1c&title_color=4dd0e1&text_color=e7ecf5&langs_count=6" alt="langs" height="160"/>
+
+</div>
+
+<br>
+
+## `> contact`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-4dd0e1?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1c)](mailto:your.email@example.com)
+[![Blog](https://img.shields.io/badge/Blog-Visit-f6c453?style=flat-square&logo=hashnode&logoColor=white&labelColor=0a0f1c)](https://your-blog.example.com)
+[![Roadmap](https://img.shields.io/badge/Live_Roadmap-ze--rith.github.io-82f0ff?style=flat-square&logo=githubpages&logoColor=white&labelColor=0a0f1c)](https://ze-rith.github.io/)
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+"8년 뒤의 나를 위해, 오늘 한 가지부터."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4dd0e1,50:1a7e8c,100:0a0f1c&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
