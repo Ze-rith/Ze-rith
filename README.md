@@ -16,7 +16,7 @@
 
 ```yaml
 name:       김승우 (Ze-rith)
-school:     대구소프트웨어마이스터고 (DGSM)
+school:     대구소프트웨어마이스터고 (DGSW)
 location:   Daegu, Korea
 status:     고2 · 사이버보안 트랙
 mission:    8년 뒤, 사이버범죄수사대 수사관
@@ -99,8 +99,17 @@ mission:    8년 뒤, 사이버범죄수사대 수사관
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ze-rith&show_icons=true&hide_border=true&bg_color=0a0f1c&title_color=4dd0e1&text_color=e7ecf5&icon_color=f6c453&include_all_commits=true" alt="stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-rith&layout=compact&hide_border=true&bg_color=0a0f1c&title_color=4dd0e1&text_color=e7ecf5&langs_count=6" alt="langs" height="160"/>
+<a href="https://github.com/Ze-rith">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ze-rith&show_icons=true&hide_border=true&bg_color=0a0f1c&title_color=4dd0e1&text_color=e7ecf5&icon_color=f6c453&include_all_commits=true&count_private=true&card_width=440" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/Ze-rith">
+  <img src="https://streak-stats.demolab.com/?user=Ze-rith&theme=dark&hide_border=true&background=0a0f1c&stroke=0a0f1c&ring=4dd0e1&fire=f6c453&currStreakLabel=4dd0e1&sideLabels=e7ecf5&currStreakNum=ffffff&dates=8a99b5&sideNums=ffffff" alt="GitHub Streak" />
+</a>
+
+<a href="https://github.com/Ze-rith">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ze-rith&layout=compact&hide_border=true&bg_color=0a0f1c&title_color=4dd0e1&text_color=e7ecf5&langs_count=8&card_width=440" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -110,8 +119,8 @@ mission:    8년 뒤, 사이버범죄수사대 수사관
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-4dd0e1?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1c)](mailto:your.email@example.com)
-[![Blog](https://img.shields.io/badge/Blog-Visit-f6c453?style=flat-square&logo=hashnode&logoColor=white&labelColor=0a0f1c)](https://your-blog.example.com)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-4dd0e1?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1c)](mailto:me.secur1ty.dev@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-Visit-f6c453?style=flat-square&logo=hashnode&logoColor=white&labelColor=0a0f1c)](https://velog.io/@ze-rith/posts)
 [![Roadmap](https://img.shields.io/badge/Live_Roadmap-ze--rith.github.io-82f0ff?style=flat-square&logo=githubpages&logoColor=white&labelColor=0a0f1c)](https://ze-rith.github.io/)
 
 </div>
