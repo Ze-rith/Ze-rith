@@ -16,7 +16,7 @@
 
 ```yaml
 name:       김승우 (Ze-rith)
-school:     대구소프트웨어마이스터고 (DGSW)
+school:     대구소프트웨어마이스터고 (DGSM)
 location:   Daegu, Korea
 status:     고2 · 사이버보안 트랙
 mission:    8년 뒤, 사이버범죄수사대 수사관
@@ -119,8 +119,8 @@ mission:    8년 뒤, 사이버범죄수사대 수사관
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-4dd0e1?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1c)](mailto:me.secur1ty.dev@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Visit-f6c453?style=flat-square&logo=hashnode&logoColor=white&labelColor=0a0f1c)](https://velog.io/@ze-rith/posts)
+[![Email](https://img.shields.io/badge/me.secur1ty.dev@gmail.com-4dd0e1?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1c)](mailto:me.secur1ty.dev@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-@ze--rith-20c997?style=flat-square&logo=velog&logoColor=white&labelColor=0a0f1c)](https://velog.io/@ze-rith/posts)
 [![Roadmap](https://img.shields.io/badge/Live_Roadmap-ze--rith.github.io-82f0ff?style=flat-square&logo=githubpages&logoColor=white&labelColor=0a0f1c)](https://ze-rith.github.io/)
 
 </div>
