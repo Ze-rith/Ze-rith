@@ -16,7 +16,7 @@
 
 ```yaml
 name:       김승우 (Ze-rith)
-school:     대구소프트웨어마이스터고 (DGSM)
+school:     대구소프트웨어마이스터고 (DGSW)
 location:   Daegu, Korea
 status:     고2 · 사이버보안 트랙
 mission:    8년 뒤, 사이버범죄수사대 수사관
