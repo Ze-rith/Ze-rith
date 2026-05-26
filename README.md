@@ -89,7 +89,6 @@ mission:    8년 뒤, 사이버범죄수사대 수사관
 ```bash
 🏃  5km running        — current: building base
 💪  Push-ups           — target: 50 reps
-🥊  격투기              — coming soon
 🎯  Dreamhack          — wargames in progress
 ```
 
